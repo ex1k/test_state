@@ -3,6 +3,6 @@ int main()
 {
     printf("Test this deploy\n");
     printf("Test it in dev\n");
-    printf("1245");
+    printf("12");
     return 0;
 }
